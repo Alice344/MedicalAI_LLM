@@ -1,0 +1,1027 @@
+[
+    {
+        "instruction": "断指再植血管危象的手术治疗有些什么？",
+        "input": "",
+        "output": "断指再植；静脉皮瓣游离移植"
+    },
+    {
+        "instruction": "88-A型的发病部位是什么？",
+        "input": "",
+        "output": "第1趾列"
+    },
+    {
+        "instruction": "高甘油三酯血症的就诊科室是什么？",
+        "input": "",
+        "output": "内科；内分泌科"
+    },
+    {
+        "instruction": "糖尿病低血糖的临床表现有些什么？",
+        "input": "",
+        "output": "精神症状"
+    },
+    {
+        "instruction": "旁正中梗死的病因是什么？",
+        "input": "",
+        "output": "基底穿支动脉起始部闭塞"
+    },
+    {
+        "instruction": "乙型重症肝炎的风险评估因素有些什么？",
+        "input": "",
+        "output": "饮酒史"
+    },
+    {
+        "instruction": "自发性幕上脑内出血的手术治疗有些什么？",
+        "input": "",
+        "output": "联合神经内镜"
+    },
+    {
+        "instruction": "12q扩增的多发群体是什么？",
+        "input": "",
+        "output": "Ⅱ期患者"
+    },
+    {
+        "instruction": "膝关节骨关节病的多发群体是什么？",
+        "input": "",
+        "output": "老年人"
+    },
+    {
+        "instruction": "MadeLung畸形的临床表现有些什么？",
+        "input": "",
+        "output": "腕关节疼痛"
+    },
+    {
+        "instruction": "左腰部阵发性酸痛的影像学检查有些什么？",
+        "input": "",
+        "output": "彩色多普勒超声；B超"
+    },
+    {
+        "instruction": "进展期胃癌的发病部位是什么？",
+        "input": "",
+        "output": "胃窦部；贲门胃底部；贲门部；胃壁肌层；胃窦"
+    },
+    {
+        "instruction": "颅底修补的并发症是什么？",
+        "input": "",
+        "output": "脑脊液漏3例"
+    },
+    {
+        "instruction": "高温黄磷烟雾吸入性损伤的辅助治疗有些什么？",
+        "input": "",
+        "output": "保持呼吸道通畅和灌洗；维持血氧浓度；加强肺功能保护"
+    },
+    {
+        "instruction": "常熟市胃癌的高危因素有些什么？",
+        "input": "",
+        "output": "三餐不按时；吃油炸食品多；吃咸鱼咸肉多；人际关系不好"
+    },
+    {
+        "instruction": "喉乳头状瘤切除术的辅助治疗有些什么？",
+        "input": "",
+        "output": "过度通气"
+    },
+    {
+        "instruction": "糖尿病胃病的临床表现有些什么？",
+        "input": "",
+        "output": "腹胀；恶心"
+    },
+    {
+        "instruction": "B组糖尿病的推荐药有些什么？",
+        "input": "",
+        "output": "罗格列酮"
+    },
+    {
+        "instruction": "面神经额支的发病部位是什么？",
+        "input": "",
+        "output": "颧弓下缘；骨性额部；发际内的前部；额部"
+    },
+    {
+        "instruction": "先天性听力损失的发病年龄是多少？",
+        "input": "",
+        "output": "2～3月龄"
+    },
+    {
+        "instruction": "金属伪影的手术治疗有些什么？",
+        "input": "",
+        "output": "脊柱内固定"
+    },
+    {
+        "instruction": "急性附睾睾丸炎的推荐药有些什么？",
+        "input": "",
+        "output": "左氧氟沙星；如意金黄散；中药消核止痛汤联合敏感抗生素；蜂蜜"
+    },
+    {
+        "instruction": "脊柱内固定术后感染的辅助治疗有些什么？",
+        "input": "",
+        "output": "置管冲洗"
+    },
+    {
+        "instruction": "输血不良反应的症状有些什么？",
+        "input": "",
+        "output": "过敏反应"
+    },
+    {
+        "instruction": "就业压力心理症状评定的风险评估因素有些什么？",
+        "input": "",
+        "output": "自责因子"
+    },
+    {
+        "instruction": "过强反射性鼻炎的治愈率是多少？",
+        "input": "",
+        "output": "98%"
+    },
+    {
+        "instruction": "内异症相关疼痛的推荐药有些什么？",
+        "input": "",
+        "output": "来曲唑"
+    },
+    {
+        "instruction": "全麻苏醒的辅助治疗有些什么？",
+        "input": "",
+        "output": "心理护理；舒适化体位护理"
+    },
+    {
+        "instruction": "轮状病毒(RV)感染性腹泻的推荐药有些什么？",
+        "input": "",
+        "output": "西咪替丁"
+    },
+    {
+        "instruction": "慢性阻塞性胰腺炎的病因是什么？",
+        "input": "",
+        "output": "胰管开口部位炎性病变；胰管开口炎性病变"
+    },
+    {
+        "instruction": "腹部切口的辅助治疗有些什么？",
+        "input": "",
+        "output": "皮下引流管持续负压引流；抗菌；负压引流的护理方法；加强营养；改良褥式缝合法"
+    },
+    {
+        "instruction": "肱骨头松质骨压缩缺损的手术治疗有些什么？",
+        "input": "",
+        "output": "植骨"
+    },
+    {
+        "instruction": "脑中出现Aβ沉积的发病年龄是多少？",
+        "input": "",
+        "output": "90岁"
+    },
+    {
+        "instruction": "先天性食管憩室的治疗方式是什么？",
+        "input": "",
+        "output": "手术治疗；药物治疗"
+    },
+    {
+        "instruction": "心肌梗死后综合征的临床表现有些什么？",
+        "input": "",
+        "output": "胸疼"
+    },
+    {
+        "instruction": "蝶鞍区血管外皮细胞瘤的临床表现有些什么？",
+        "input": "",
+        "output": "视力、视野、眼球运动障碍"
+    },
+    {
+        "instruction": "抑郁症患者失眠的辅助治疗有些什么？",
+        "input": "",
+        "output": "耳穴压豆法"
+    },
+    {
+        "instruction": "冻融自然周期的临床表现有些什么？",
+        "input": "",
+        "output": "妊娠率升高"
+    },
+    {
+        "instruction": "皮肤鳞状细胞癌的临床表现有些什么？",
+        "input": "",
+        "output": "细胞凋亡；表皮生长因子受体；热休克蛋白10、60；细胞周期蛋白E；p16基因甲基化；增殖细胞核抗原"
+    },
+    {
+        "instruction": "食滞胃脘主证的治愈率是多少？",
+        "input": "",
+        "output": "98%"
+    },
+    {
+        "instruction": "布鲁杆菌性脊柱炎的发病性别倾向是啥？",
+        "input": "",
+        "output": "女性"
+    },
+    {
+        "instruction": "COPDⅡ型呼吸衰竭的临床表现有些什么？",
+        "input": "",
+        "output": "PaCO2降低"
+    },
+    {
+        "instruction": "阻黄的影像学检查有些什么？",
+        "input": "",
+        "output": "三期增强扫描；多层螺旋CT"
+    },
+    {
+        "instruction": "创口不愈合的病因是什么？",
+        "input": "",
+        "output": "植入物的反应；手术操作技术不当"
+    },
+    {
+        "instruction": "皮下裂头蚴病的治疗方式是什么？",
+        "input": "",
+        "output": "药物治疗；支持性治疗"
+    },
+    {
+        "instruction": "Gianotti病的多发群体是什么？",
+        "input": "",
+        "output": "小儿"
+    },
+    {
+        "instruction": "胆囊炎的症状是什么？",
+        "input": "",
+        "output": "胆囊壁毛糙；指甲呈扇形；持续性发热；腹肌紧张；胆囊壁厚；腹痛；恶心；右上腹痛；肩周区弥散的钝"
+    },
+    {
+        "instruction": "早期未破裂型异位妊娠的影像学检查有些什么？",
+        "input": "",
+        "output": "超声诊断"
+    },
+    {
+        "instruction": "发疫情的发病年龄是多少？",
+        "input": "",
+        "output": "15～40岁"
+    },
+    {
+        "instruction": "慢性心率衰竭的辅助治疗有些什么？",
+        "input": "",
+        "output": "耳穴压豆联合穴位贴敷"
+    },
+    {
+        "instruction": "胸腔胃穿孔的手术治疗有些什么？",
+        "input": "",
+        "output": "二次开胸修补"
+    },
+    {
+        "instruction": "HER-2表达的风险评估因素有些什么？",
+        "input": "",
+        "output": "肿瘤大小；肿瘤分化程度"
+    },
+    {
+        "instruction": "无脊柱脊髓畸形的影像学检查有些什么？",
+        "input": "",
+        "output": "磁共振成像"
+    },
+    {
+        "instruction": "社区糖尿病合并低血糖的辅助治疗有些什么？",
+        "input": "",
+        "output": "优质护理"
+    },
+    {
+        "instruction": "直肠痛的手术治疗有些什么？",
+        "input": "",
+        "output": "直肠痛根治术；腹腔镜手术"
+    },
+    {
+        "instruction": "AVG内瘘闭塞血栓的辅助治疗有些什么？",
+        "input": "",
+        "output": "患者教育"
+    },
+    {
+        "instruction": "无症状颈动脉粥样硬化的影像学检查有些什么？",
+        "input": "",
+        "output": "颈动脉超声检查；超声"
+    },
+    {
+        "instruction": "结核病的治疗周期多长？",
+        "input": "",
+        "output": "6-12个月"
+    },
+    {
+        "instruction": "急性期复杂性B型夹层的手术治疗有些什么？",
+        "input": "",
+        "output": "TEVAR手术"
+    },
+    {
+        "instruction": "卵巢妊娠的患病比例是多少？",
+        "input": "",
+        "output": "0.002%"
+    },
+    {
+        "instruction": "老年人低钠血症的推荐药有哪些？",
+        "input": "",
+        "output": "注射用呋塞米；注射用布美他尼；托伐普坦片；呋噻米片；呋塞米片；呋塞米注射液；浓氯化钠注射液"
+    },
+    {
+        "instruction": "盆腔慢性炎症的辅助治疗有些什么？",
+        "input": "",
+        "output": "中草药灌肠"
+    },
+    {
+        "instruction": "重度左侧房室瓣反流的手术治疗有些什么？",
+        "input": "",
+        "output": "瓣膜置换术"
+    },
+    {
+        "instruction": "偏矮的辅助治疗有些什么？",
+        "input": "",
+        "output": "身高管理"
+    },
+    {
+        "instruction": "SandersⅡ~Ⅲ型跟骨骨折的手术治疗有些什么？",
+        "input": "",
+        "output": "切开复位内固定术"
+    },
+    {
+        "instruction": "内分泌障碍会转化成什么？",
+        "input": "",
+        "output": "发声障碍"
+    },
+    {
+        "instruction": "科研型研究生的辅助治疗有些什么？",
+        "input": "",
+        "output": "因材施教；言传身教；思行合一"
+    },
+    {
+        "instruction": "丙型肝炎的多发群体是什么？",
+        "input": "",
+        "output": "农民；吸毒人群；健康志愿者；非上海户籍者；学生和军人；老年患者；吸毒者"
+    },
+    {
+        "instruction": "韦格纳肉芽肿性巩膜炎的治愈率是多少？",
+        "input": "",
+        "output": "75%"
+    },
+    {
+        "instruction": "nⅤ型的临床表现有些什么？",
+        "input": "",
+        "output": "桡骨头脱位"
+    },
+    {
+        "instruction": "十二指肠良性肿瘤的推荐药有哪些？",
+        "input": "",
+        "output": "复方铝酸铋颗粒；复方铝酸铋片；阿拉坦五味丸；陈香露白露片；丙谷胺片"
+    },
+    {
+        "instruction": "慢性重症乙肝的辅助治疗有些什么？",
+        "input": "",
+        "output": "常规护理"
+    },
+    {
+        "instruction": "主干大动脉严重狭窄的手术治疗有些什么？",
+        "input": "",
+        "output": "血管再通技术"
+    },
+    {
+        "instruction": "头罩NIV的辅助治疗有些什么？",
+        "input": "",
+        "output": "鼻导管吸氧"
+    },
+    {
+        "instruction": "下肢动脉严重缺血疾病的手术治疗有些什么？",
+        "input": "",
+        "output": "人工血管旁路移植"
+    },
+    {
+        "instruction": "产后出血休克的手术治疗有些什么？",
+        "input": "",
+        "output": "子宫次全切除"
+    },
+    {
+        "instruction": "口腔颌面恶性肿瘤手术的推荐药有些什么？",
+        "input": "",
+        "output": "抗菌药物"
+    },
+    {
+        "instruction": "中重型闭合性颅脑损伤的辅助治疗有些什么？",
+        "input": "",
+        "output": "肢体功能训练；高压氧治疗；促醒治疗；早期综合康复；神经肌肉电刺激；针灸"
+    },
+    {
+        "instruction": "双侧肾发育不良的影像学检查有些什么？",
+        "input": "",
+        "output": "产前超声；生后超声"
+    },
+    {
+        "instruction": "术后吻合口瘘的推荐药有些什么？",
+        "input": "",
+        "output": "糖皮质激素；庆大霉素"
+    },
+    {
+        "instruction": "缺血性坏死的高危因素有些什么？",
+        "input": "",
+        "output": "坏死面积比例"
+    },
+    {
+        "instruction": "疑肾脏疾病的组织学检查有些什么？",
+        "input": "",
+        "output": "肾穿刺活检"
+    },
+    {
+        "instruction": "大鼠化学性肝损伤的预防措施有些什么？",
+        "input": "",
+        "output": "灵芝茶"
+    },
+    {
+        "instruction": "梅克尔憩室的组织学检查有些什么？",
+        "input": "",
+        "output": "小肠组织"
+    },
+    {
+        "instruction": "72足跟骨骨折的辅助治疗有些什么？",
+        "input": "",
+        "output": "伤口处理；功能康复；术后伤口处理"
+    },
+    {
+        "instruction": "小儿髓母细胞瘤的多发群体是？",
+        "input": "",
+        "output": "儿童"
+    },
+    {
+        "instruction": "早期放射性视网膜病变的推荐药有些什么？",
+        "input": "",
+        "output": "芪明颗粒"
+    },
+    {
+        "instruction": "肾衰竭大鼠血管钙化的推荐药有些什么？",
+        "input": "",
+        "output": "辛伐他汀联合缬沙坦；缬沙坦"
+    },
+    {
+        "instruction": "血管年龄的概要",
+        "input": "",
+        "output": "血管就如同水管，随着使用年限的增加，胆固醇在血管中的堆积，容易促使血管老化。"
+    },
+    {
+        "instruction": "胆红素脑病的病因是什么？",
+        "input": "",
+        "output": "溶血；未结合胆红素水平；过高间接胆红素；溶血与感染；出血；感染；胆红素过高；新生儿感染"
+    },
+    {
+        "instruction": "女性冠脉病变的临床表现有些什么？",
+        "input": "",
+        "output": "侧枝循环形成；多支病变"
+    },
+    {
+        "instruction": "转基因表皮细胞的影像学检查有些什么？",
+        "input": "",
+        "output": "扫描电镜"
+    },
+    {
+        "instruction": "耳廓假性囊肿手术的辅助治疗有些什么？",
+        "input": "",
+        "output": "贯穿缝合加压包扎法"
+    },
+    {
+        "instruction": "老年支气管炎哮喘的推荐药有些什么？",
+        "input": "",
+        "output": "普米克令舒雾化；百令胶囊"
+    },
+    {
+        "instruction": "丙酸氟替卡松鼻喷雾剂贮藏方法",
+        "input": "",
+        "output": "避光，密封保存，有效期24个月。"
+    },
+    {
+        "instruction": "不规则热的临床表现有些什么？",
+        "input": "",
+        "output": "乏力；抽搐；踝关节疼痛；双眼上翻"
+    },
+    {
+        "instruction": "粪性皮炎的辅助治疗有些什么？",
+        "input": "",
+        "output": "心理护理；全身支持；宣教饮食；培训所有照顾者"
+    },
+    {
+        "instruction": "遗传性血色病的就诊科室是什么？",
+        "input": "",
+        "output": "内科；血液科"
+    },
+    {
+        "instruction": "新生儿的临床表现有些什么？",
+        "input": "",
+        "output": "高热；新生儿呕吐；呼吸频率；哭吵；吐沫；新生儿红斑；呼气性呻吟；抽搐；食欲、睡眠质量"
+    },
+    {
+        "instruction": "Pick病的临床表现有些什么？",
+        "input": "",
+        "output": "脑萎缩变化；\"剪刀”像；\"刀片”状、\"剪刀”像；行为异常；人格改变；语言障碍；剪刀”像"
+    },
+    {
+        "instruction": "咳嗽枇杷糖浆禁忌症是什么？",
+        "input": "",
+        "output": "肺虚久咳者忌服。"
+    },
+    {
+        "instruction": "免疫损害的内窥镜检查有些什么？",
+        "input": "",
+        "output": "纤支镜检查；纤支镜"
+    },
+    {
+        "instruction": "皮炎的治疗周期多长？",
+        "input": "",
+        "output": "7-30天"
+    },
+    {
+        "instruction": "绝经后子宫脱垂术的推荐药有些什么？",
+        "input": "",
+        "output": "补佳乐联合维生素E"
+    },
+    {
+        "instruction": "散发性ALS的辅助检查有些什么？",
+        "input": "",
+        "output": "用力肺活量"
+    },
+    {
+        "instruction": "转流管阻塞的手术治疗有些什么？",
+        "input": "",
+        "output": "小儿脑室-腹腔转流术"
+    },
+    {
+        "instruction": "斜视的就诊科室是什么？",
+        "input": "",
+        "output": "五官科；眼科"
+    },
+    {
+        "instruction": "糖皮质激素的使用到底会导致低血钙还是高血，糖皮质激素的使用到底会导致低血钙还是高血钙为什么",
+        "input": "",
+        "output": "指导意见：这个一般会会造成高血钙的现像，之后就会又成低血钙了这个是一个过程。医生询问："
+    },
+    {
+        "instruction": "控制性超促排卵的影像学检查有些什么？",
+        "input": "",
+        "output": "阴道彩色多普勒超声；阴道超声"
+    },
+    {
+        "instruction": "Ⅱ型神经纤维瘤的手术治疗有些什么？",
+        "input": "",
+        "output": "微创手术治疗"
+    },
+    {
+        "instruction": "头孢地尼胶囊能治理什么疾病?",
+        "input": "",
+        "output": "肛乳头炎；前庭大腺炎；麦粒肿；外阴前庭炎"
+    },
+    {
+        "instruction": "软骨关节炎的临床表现有些什么？",
+        "input": "",
+        "output": "蛋白聚糖增加；细胞体积变肥大"
+    },
+    {
+        "instruction": "急危重症肝病的推荐药有些什么？",
+        "input": "",
+        "output": "甲泼尼龙；巴利昔单克隆抗体"
+    },
+    {
+        "instruction": "小儿胆囊疾病的手术治疗有些什么？",
+        "input": "",
+        "output": "腹腔镜胆囊切除术"
+    },
+    {
+        "instruction": "硅凝胶乳房假体包膜挛缩的推荐药有些什么？",
+        "input": "",
+        "output": "几丁糖"
+    },
+    {
+        "instruction": "患SLE的临床表现有些什么？",
+        "input": "",
+        "output": "结痂伴疼痛；水疱、结痂伴疼痛"
+    },
+    {
+        "instruction": "早产儿真菌性脑膜炎的影像学检查有些什么？",
+        "input": "",
+        "output": "头颅B超"
+    },
+    {
+        "instruction": "氧诱导视网膜病变的多发群体是什么？",
+        "input": "",
+        "output": "猫、家兔；犬"
+    },
+    {
+        "instruction": "原发性左内叶肝癌的并发症是什么？",
+        "input": "",
+        "output": "肝硬化；门脉高压症；脾功能亢进"
+    },
+    {
+        "instruction": "阑尾肿瘤的检查有些什么？",
+        "input": "",
+        "output": "腹部平片"
+    },
+    {
+        "instruction": "狭窄严重或完全狭窄的手术治疗有些什么？",
+        "input": "",
+        "output": "支架植入术；狭窄扩张"
+    },
+    {
+        "instruction": "肱骨踝间骨折的手术治疗有些什么？",
+        "input": "",
+        "output": "手术治疗；尺骨鹰嘴截骨；手术切开复位双侧重建钛板内固定"
+    },
+    {
+        "instruction": "中枢神经系统白血病的手术治疗有些什么？",
+        "input": "",
+        "output": "自体骨髓移植；造血干细胞移植；异基因造血干细胞移植"
+    },
+    {
+        "instruction": "心悸伴消瘦、腹泻可能是什么疾病的症状?",
+        "input": "",
+        "output": "病毒性心肌炎；甲亢性心脏病"
+    },
+    {
+        "instruction": "硫化血红蛋白血症的并发症是什么？",
+        "input": "",
+        "output": "动脉粥样硬化"
+    },
+    {
+        "instruction": "肠系膜动脉瘤的检查有些什么？",
+        "input": "",
+        "output": "CT检查；腹部MRI检查；腹部透视；平衡法放射性核素心血管造影(ERNA)；心血管造影"
+    },
+    {
+        "instruction": "老年髋骨骨折的发病部位是什么？",
+        "input": "",
+        "output": "髋关节"
+    },
+    {
+        "instruction": "职业性手外伤事故的病因是什么？",
+        "input": "",
+        "output": "社会心理因素"
+    },
+    {
+        "instruction": "粉刺样痣的多发群体是？",
+        "input": "",
+        "output": "大多发病于10岁以前儿童"
+    },
+    {
+        "instruction": "纵隔恶性淋巴瘤的推荐药有些什么？",
+        "input": "",
+        "output": "强的松；长春新碱；环磷酰胺；柔比星"
+    },
+    {
+        "instruction": "叶酸缺乏所致贫血的患病比例是多少？",
+        "input": "",
+        "output": "0.026%"
+    },
+    {
+        "instruction": "脑出血颅内高压的辅助治疗有些什么？",
+        "input": "",
+        "output": "基础脱水治疗"
+    },
+    {
+        "instruction": "冠心病诊疗的并发症是什么？",
+        "input": "",
+        "output": "血管迷走反射；血管并发症；静脉血栓；穿刺点出血；假性动脉瘤；动静脉瘘；皮下血肿"
+    },
+    {
+        "instruction": "轻、中度慢性宫颈炎的推荐药有些什么？",
+        "input": "",
+        "output": "活性银离子抗菌液；高价活性银离子抗菌凝胶"
+    },
+    {
+        "instruction": "老年不可复性食道裂孔疝的影像学检查有些什么？",
+        "input": "",
+        "output": "胸部平片影像；胸部平片"
+    },
+    {
+        "instruction": "晚期卵巢癌的发病年龄是多少？",
+        "input": "",
+        "output": "中位年龄48岁"
+    },
+    {
+        "instruction": "损伤性控便障碍的辅助检查有些什么？",
+        "input": "",
+        "output": "肛直肠测压"
+    },
+    {
+        "instruction": "腺病毒的辅助治疗有些什么？",
+        "input": "",
+        "output": "腺病毒本身的改造"
+    },
+    {
+        "instruction": "肛管尖锐湿疣的推荐药有些什么？",
+        "input": "",
+        "output": "激光联合改性几丁质喷雾剂；改性几丁质喷剂"
+    },
+    {
+        "instruction": "小儿软组织肉瘤的推荐药有哪些？",
+        "input": "",
+        "output": "氟尿嘧啶注射液；氟尿嘧啶软膏；氟尿嘧啶乳膏；注射用盐酸平阳霉素；复方阿胶补血膏；强力康颗粒"
+    },
+    {
+        "instruction": "先天性膈疝宜食什么？",
+        "input": "",
+        "output": "鸡蛋；鸭肝；莲子；葵花子仁"
+    },
+    {
+        "instruction": "坏疽型溃疡的临床表现有些什么？",
+        "input": "",
+        "output": "触痛"
+    },
+    {
+        "instruction": "老年人泌尿系结石的检查有些什么？",
+        "input": "",
+        "output": "逆行肾盂造影；肾图检查；腹部平片"
+    },
+    {
+        "instruction": "急性腹主动脉栓塞的辅助治疗有些什么？",
+        "input": "",
+        "output": "围手术期"
+    },
+    {
+        "instruction": "吉特林综合征的并发症是什么？",
+        "input": "",
+        "output": "风疹"
+    },
+    {
+        "instruction": "交警CO的病因是什么？",
+        "input": "",
+        "output": "吸烟和接触汽车废气"
+    },
+    {
+        "instruction": "难治性癫的临床表现有些什么？",
+        "input": "",
+        "output": "反应性胶质细胞的显著增生"
+    },
+    {
+        "instruction": "ASA分级Ⅰ级的手术治疗有些什么？",
+        "input": "",
+        "output": "择期腹腔镜下疝修补术；尿道下裂成形术；骨科手术"
+    },
+    {
+        "instruction": "复杂肝内胆管结石的影像学检查有些什么？",
+        "input": "",
+        "output": "选择性胆管造影"
+    },
+    {
+        "instruction": "骨性连接形成的并发症是什么？",
+        "input": "",
+        "output": "假关节"
+    },
+    {
+        "instruction": "大百部的多发地区是哪里？",
+        "input": "",
+        "output": "涪陵"
+    },
+    {
+        "instruction": "颅段的临床表现有些什么？",
+        "input": "",
+        "output": "构音不清；眼睑痉挛"
+    },
+    {
+        "instruction": "Ⅰ型岩斜区脑膜瘤的手术治疗有些什么？",
+        "input": "",
+        "output": "磨除岩骨"
+    },
+    {
+        "instruction": "腮腺炎症的影像学检查有些什么？",
+        "input": "",
+        "output": "超声检查"
+    },
+    {
+        "instruction": "肿瘤周围结构受损的临床表现有些什么？",
+        "input": "",
+        "output": "颅内压增高"
+    },
+    {
+        "instruction": "血虚寒凝型产后身痛的推荐药有些什么？",
+        "input": "",
+        "output": "黄芪桂枝五物汤"
+    },
+    {
+        "instruction": "低电压改变的影像学检查有些什么？",
+        "input": "",
+        "output": "心电图"
+    },
+    {
+        "instruction": "吸烟的筛查有些什么？",
+        "input": "",
+        "output": "膳食平衡指数"
+    },
+    {
+        "instruction": "玛咖的临床表现有些什么？",
+        "input": "",
+        "output": "整体形变小；表皮褶皱浅"
+    },
+    {
+        "instruction": "氧化应激条件会导致什么样的结果？",
+        "input": "",
+        "output": "肿瘤"
+    },
+    {
+        "instruction": "无假体松动的并发症是什么？",
+        "input": "",
+        "output": "F沉；断裂"
+    },
+    {
+        "instruction": "慢重肝的推荐药有些什么？",
+        "input": "",
+        "output": "前列腺素E1脂微球制剂；促肝细胞生长素联合腺苷蛋氨酸；促肝细胞生长素；联合用药；腺苷蛋氨酸"
+    },
+    {
+        "instruction": "双侧三叉神经痛的辅助治疗有些什么？",
+        "input": "",
+        "output": "温度射频热凝术"
+    },
+    {
+        "instruction": "早产分娩的推荐药有些什么？",
+        "input": "",
+        "output": "安慰剂；β-肾上腺受体兴奋剂；糖皮质激素；硫酸镁产前静脉滴注；钙离子通道拮抗剂"
+    },
+    {
+        "instruction": "急性淋巴白血病的临床表现有些什么？",
+        "input": "",
+        "output": "VEGF表达阳性"
+    },
+    {
+        "instruction": "抑郁症患者自杀的病因是什么？",
+        "input": "",
+        "output": "家庭暴力"
+    },
+    {
+        "instruction": "金属裸支架术的推荐药有些什么？",
+        "input": "",
+        "output": "西洛他唑"
+    },
+    {
+        "instruction": "先天性长段型巨结肠的手术治疗有些什么？",
+        "input": "",
+        "output": "腹腔镜Soave手术"
+    },
+    {
+        "instruction": "皮肤慢性溃疡的推荐药有些什么？",
+        "input": "",
+        "output": "美宝创疡贴；贝复新凝胶；微粒皮种植术结合湿润烧伤膏；MEBO外敷；三乙醇胺乳膏；湿润烧伤膏"
+    },
+    {
+        "instruction": "新轮状病毒会导致什么样的结果？",
+        "input": "",
+        "output": "腹泻"
+    },
+    {
+        "instruction": "结核性的病因是什么？",
+        "input": "",
+        "output": "放射性损伤；心脏手术后"
+    },
+    {
+        "instruction": "疱疹性咽颊炎宜食什么？",
+        "input": "",
+        "output": "鸡蛋；杏仁；南瓜；胡萝卜"
+    },
+    {
+        "instruction": "妊娠中晚期急性阑尾炎的手术治疗有些什么？",
+        "input": "",
+        "output": "手术治疗"
+    },
+    {
+        "instruction": "嗜酸性胃肠炎的并发症是什么？",
+        "input": "",
+        "output": "膀胱炎；嗜酸性膀胱炎"
+    },
+    {
+        "instruction": "VNS抑痫的病因是什么？",
+        "input": "",
+        "output": "儿茶酚胺能神经元"
+    },
+    {
+        "instruction": "贫血组的发病部位是什么？",
+        "input": "",
+        "output": "门脉/肝实质"
+    },
+    {
+        "instruction": "ACL损伤病的内窥镜检查有些什么？",
+        "input": "",
+        "output": "关节镜"
+    },
+    {
+        "instruction": "宽颈动脉瘤的并发症是什么？",
+        "input": "",
+        "output": "后循环动脉瘤；高血压；同侧颈内动脉闭塞；进行性血栓"
+    },
+    {
+        "instruction": "AA型的辅助治疗有些什么？",
+        "input": "",
+        "output": "介入治疗"
+    },
+    {
+        "instruction": "原发性小肠淋巴瘤的组织学检查有些什么？",
+        "input": "",
+        "output": "病理检查；活组织病理检查"
+    },
+    {
+        "instruction": "烧烫伤瘢痕的辅助治疗有些什么？",
+        "input": "",
+        "output": "超脉冲CO2点阵激光"
+    },
+    {
+        "instruction": "老年人重型颅脑损伤的手术治疗有些什么？",
+        "input": "",
+        "output": "标准外伤大骨瓣改良术"
+    },
+    {
+        "instruction": "微创拔牙的手术治疗有些什么？",
+        "input": "",
+        "output": "植入Bio-Oss；植入羟基磷灰石富含血小板血浆"
+    },
+    {
+        "instruction": "破骨细胞RANK的推荐药有些什么？",
+        "input": "",
+        "output": "阿司匹林"
+    },
+    {
+        "instruction": "CTX致贫血的推荐药有些什么？",
+        "input": "",
+        "output": "枸杞水煎剂"
+    },
+    {
+        "instruction": "恶性周围神经鞘瘤的临床表现有些什么？",
+        "input": "",
+        "output": "疼痛"
+    },
+    {
+        "instruction": "髋关节撞击综合征的临床表现有些什么？",
+        "input": "",
+        "output": "关节活动障碍；髋关节活动受限；股骨颈α角增大；股骨颈α角显著增大；关节疼痛；慢性疼痛；股骨颈疝窝"
+    },
+    {
+        "instruction": "高龄手术的辅助治疗有些什么？",
+        "input": "",
+        "output": "护理风险管理；基础护理管理；全程无缝护理模式；预见性护理；异丙酚麻醉；健康教育"
+    },
+    {
+        "instruction": "颜面部外伤的辅助治疗有些什么？",
+        "input": "",
+        "output": "修复治疗"
+    },
+    {
+        "instruction": "活动性结核分枝杆菌感染会导致什么样的结果？",
+        "input": "",
+        "output": "多发性大动脉炎"
+    },
+    {
+        "instruction": "喷昔洛韦乳膏成分或处方",
+        "input": "",
+        "output": "本品主要成份为：喷昔洛韦。其化学名称为：9-［4-羟基-3-(羟甲基)-丁基］-鸟嘌呤。"
+    },
+    {
+        "instruction": "下腔静脉梗阻的影像学检查有些什么？",
+        "input": "",
+        "output": "MR检查；彩色超声；MRI检查；肝脏CT"
+    },
+    {
+        "instruction": "破骨的临床表现有些什么？",
+        "input": "",
+        "output": "胞浆丰满；细胞突起延展；胞浆丰富；体积大"
+    },
+    {
+        "instruction": "T2DM合并感染的高危因素有些什么？",
+        "input": "",
+        "output": "病程"
+    },
+    {
+        "instruction": "多椎体压缩性骨折的手术治疗有些什么？",
+        "input": "",
+        "output": "侧前路钢板固定结合椎体成形术"
+    },
+    {
+        "instruction": "湿热型慢性胃炎的辅助治疗有些什么？",
+        "input": "",
+        "output": "清热化湿舒胃法"
+    },
+    {
+        "instruction": "慢性胸骨窦道的手术治疗有些什么？",
+        "input": "",
+        "output": "胸骨窦道清创术；手术治疗；肌皮瓣转移填充术"
+    },
+    {
+        "instruction": "左髂骨肿瘤的推荐药有些什么？",
+        "input": "",
+        "output": "顺铂；羟基喜树碱；足叶乙甙"
+    },
+    {
+        "instruction": "铜绿假单胞菌肺炎的临床表现有些什么？",
+        "input": "",
+        "output": "结节状浸润影；症状消失；斑片状"
+    },
+    {
+        "instruction": "乳腺穿刺的辅助治疗有些什么？",
+        "input": "",
+        "output": "全程护理干预"
+    },
+    {
+        "instruction": "动物变应性鼻炎的临床表现有些什么？",
+        "input": "",
+        "output": "黏膜下微血管明显扩张；黏膜水肿"
+    },
+    {
+        "instruction": "高浓度Glu的推荐药有些什么？",
+        "input": "",
+        "output": "纠正高糖"
+    },
+    {
+        "instruction": "NUC感染的高危因素有些什么？",
+        "input": "",
+        "output": "妊娠"
+    },
+    {
+        "instruction": "家族性腺瘤性息肉病会转化成什么？",
+        "input": "",
+        "output": "大肠癌"
+    },
+    {
+        "instruction": "Lisfranc损伤的高危因素有些什么？",
+        "input": "",
+        "output": "吸烟；低能量暴力；榫孔内侧缘的深度"
+    }
+]
